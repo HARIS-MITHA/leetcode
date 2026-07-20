@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/HARIS-MITHA/leetcode/tree/master/0125-valid-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -46,4 +47,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/HARIS-MITHA/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
