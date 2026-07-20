@@ -21,9 +21,14 @@
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/HARIS-MITHA/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
 | ------- |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/HARIS-MITHA/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
