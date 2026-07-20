@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARIS-MITHA/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HARIS-MITHA/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -44,4 +45,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
