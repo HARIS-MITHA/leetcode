@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HARIS-MITHA/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/HARIS-MITHA/leetcode/tree/master/3945-digit-frequency-score) |
@@ -31,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
@@ -73,4 +75,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/HARIS-MITHA/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/HARIS-MITHA/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/HARIS-MITHA/leetcode/tree/master/0183-customers-who-never-order) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
