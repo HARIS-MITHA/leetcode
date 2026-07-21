@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/HARIS-MITHA/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/HARIS-MITHA/leetcode/tree/master/3945-digit-frequency-score) |
@@ -24,6 +25,7 @@
 | [0058-length-of-last-word](https://github.com/HARIS-MITHA/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HARIS-MITHA/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -46,6 +48,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Matrix
 |  |
