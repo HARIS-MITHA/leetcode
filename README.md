@@ -19,6 +19,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/HARIS-MITHA/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/HARIS-MITHA/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/HARIS-MITHA/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HARIS-MITHA/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Counting
 |  |
@@ -53,6 +55,7 @@
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
