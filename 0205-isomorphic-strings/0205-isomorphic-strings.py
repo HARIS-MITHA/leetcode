@@ -1,0 +1,21 @@
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        if len(s)!=len(t):
+            return False
+        dict1={}
+        dict2={}
+        for i in range(len(s)):
+            ch1=s[i]
+            ch2=t[i]
+            if ch1 in dict1:
+                if dict1[ch1] != ch2:
+                    return False
+            else:
+                dict1[ch1] = ch2
+            if ch2 in dict2:
+                if dict2[ch2] != ch1:
+                    return False
+            else:
+                dict2[ch2] = ch1
+        return True
+
