@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/HARIS-MITHA/leetcode/tree/master/3908-valid-digit-number) |
@@ -20,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -57,6 +59,7 @@
 | [0169-majority-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +123,7 @@
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
@@ -135,6 +139,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -142,5 +147,6 @@
 | ------- |
 | [0136-single-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
