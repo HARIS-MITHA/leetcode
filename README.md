@@ -28,6 +28,7 @@
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/HARIS-MITHA/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -65,6 +66,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/HARIS-MITHA/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARIS-MITHA/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HARIS-MITHA/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/HARIS-MITHA/leetcode/tree/master/1672-richest-customer-wealth) |
