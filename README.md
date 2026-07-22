@@ -52,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
@@ -138,5 +139,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
