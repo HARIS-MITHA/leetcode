@@ -22,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -53,6 +54,7 @@
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARIS-MITHA/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +91,7 @@
 | [0202-happy-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HARIS-MITHA/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -111,6 +114,7 @@
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
 |  |
 | ------- |
@@ -123,4 +127,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
