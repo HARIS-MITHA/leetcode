@@ -123,6 +123,7 @@
 | [0183-customers-who-never-order](https://github.com/HARIS-MITHA/leetcode/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HARIS-MITHA/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/HARIS-MITHA/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1934-confirmation-rate](https://github.com/HARIS-MITHA/leetcode/tree/master/1934-confirmation-rate) |
 ## Sorting
 |  |
