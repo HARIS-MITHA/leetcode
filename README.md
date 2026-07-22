@@ -121,6 +121,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/HARIS-MITHA/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/HARIS-MITHA/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/HARIS-MITHA/leetcode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0511-game-play-analysis-i) |
 | [1934-confirmation-rate](https://github.com/HARIS-MITHA/leetcode/tree/master/1934-confirmation-rate) |
 ## Sorting
 |  |
