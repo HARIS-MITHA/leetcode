@@ -26,6 +26,7 @@
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/HARIS-MITHA/leetcode/tree/master/3945-digit-frequency-score) |
@@ -60,6 +61,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARIS-MITHA/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HARIS-MITHA/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/HARIS-MITHA/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HARIS-MITHA/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -70,6 +72,7 @@
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/HARIS-MITHA/leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
@@ -115,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Queue
 |  |
 | ------- |
