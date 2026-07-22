@@ -45,6 +45,7 @@
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -104,6 +105,7 @@
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HARIS-MITHA/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -151,4 +153,8 @@
 | [0137-single-number-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
