@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/HARIS-MITHA/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -31,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/HARIS-MITHA/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/HARIS-MITHA/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HARIS-MITHA/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
