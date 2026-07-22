@@ -3,19 +3,19 @@ class Solution(object):
         words = s.split()
         if len(pattern) != len(words):
             return False
-        p_to_w = {}
-        w_to_p = {}
+        dict1= {}
+        dict2= {}
         for i in range(len(pattern)):
             p = pattern[i]
             w = words[i]
-            if p in p_to_w:
-                if p_to_w[p] != w:
+            if p in dict1:
+                if dict1[p] != w:
                     return False
             else:
-                p_to_w[p] = w
-            if w in w_to_p:
-                if w_to_p[w] != p:
+                dict1[p] = w
+            if w in dict2:
+                if dict2[w] != p:
                     return False
             else:
-                w_to_p[w] = p
+                dict2[w]= p
         return True     
