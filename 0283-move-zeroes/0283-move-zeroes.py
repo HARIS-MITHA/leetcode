@@ -1,12 +1,7 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        result=[]
-        for i in range(0,len(nums)):
-            if nums[i]!=0:
-                result.append(nums[i])
-        while len(result) < len(nums):
-            result.append(0)
-        for i in range(len(nums)):
-            nums[i] = result[i]
-        
-        
+        left=0
+        for right in range(len(nums)):
+            if nums[right]!=0:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
