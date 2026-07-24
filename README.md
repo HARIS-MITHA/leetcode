@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/HARIS-MITHA/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -117,6 +118,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -149,6 +151,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Queue
@@ -182,4 +185,5 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
