@@ -8,6 +8,7 @@
 | [0202-happy-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/HARIS-MITHA/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/HARIS-MITHA/leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/HARIS-MITHA/leetcode/tree/master/3945-digit-frequency-score) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
+| [1103-distribute-candies-to-people](https://github.com/HARIS-MITHA/leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Database
 |  |
 | ------- |
