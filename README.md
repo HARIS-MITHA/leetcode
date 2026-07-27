@@ -72,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/HARIS-MITHA/leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Database
 |  |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARIS-MITHA/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
