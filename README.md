@@ -50,6 +50,7 @@
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/HARIS-MITHA/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
@@ -121,6 +122,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/HARIS-MITHA/leetcode/tree/master/1103-distribute-candies-to-people) |
 ## Database
 |  |
@@ -196,4 +199,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARIS-MITHA/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
