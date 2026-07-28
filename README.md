@@ -29,6 +29,7 @@
 | [0383-ransom-note](https://github.com/HARIS-MITHA/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/HARIS-MITHA/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -73,6 +74,7 @@
 | [0283-move-zeroes](https://github.com/HARIS-MITHA/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HARIS-MITHA/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HARIS-MITHA/leetcode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
@@ -198,6 +200,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARIS-MITHA/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
