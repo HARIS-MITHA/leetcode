@@ -176,6 +176,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HARIS-MITHA/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/HARIS-MITHA/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +216,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HARIS-MITHA/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/HARIS-MITHA/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
