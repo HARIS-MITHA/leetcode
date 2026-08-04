@@ -229,4 +229,12 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/HARIS-MITHA/leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
