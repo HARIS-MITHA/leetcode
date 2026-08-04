@@ -61,6 +61,7 @@
 | [0011-container-with-most-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HARIS-MITHA/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0088-merge-sorted-array) |
@@ -113,6 +114,7 @@
 | [0011-container-with-most-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HARIS-MITHA/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HARIS-MITHA/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0088-merge-sorted-array) |
@@ -198,6 +200,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -209,12 +212,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARIS-MITHA/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HARIS-MITHA/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/HARIS-MITHA/leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
