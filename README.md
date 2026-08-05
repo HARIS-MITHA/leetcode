@@ -127,6 +127,7 @@
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/HARIS-MITHA/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/HARIS-MITHA/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HARIS-MITHA/leetcode/tree/master/1089-duplicate-zeros) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
