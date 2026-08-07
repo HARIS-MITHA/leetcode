@@ -8,6 +8,7 @@
 | [0202-happy-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0509-fibonacci-number) |
 | [1103-distribute-candies-to-people](https://github.com/HARIS-MITHA/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/HARIS-MITHA/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/HARIS-MITHA/leetcode/tree/master/3908-valid-digit-number) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HARIS-MITHA/leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/HARIS-MITHA/leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -264,4 +267,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HARIS-MITHA/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
