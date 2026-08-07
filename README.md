@@ -53,6 +53,7 @@
 | [0389-find-the-difference](https://github.com/HARIS-MITHA/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/HARIS-MITHA/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/HARIS-MITHA/leetcode/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HARIS-MITHA/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/HARIS-MITHA/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HARIS-MITHA/leetcode/tree/master/0844-backspace-string-compare) |
@@ -251,4 +252,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HARIS-MITHA/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/HARIS-MITHA/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
